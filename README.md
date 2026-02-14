@@ -1,1 +1,1 @@
-# Amazon-Clone
+#No Repositry
